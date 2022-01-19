@@ -6,7 +6,7 @@
 
 :arrow_upper_right: First-Gen Coder looking to help increase access to coding!
 
-:couple: :dog: Happily married, proud dog dad  #BigDumpers
+:couple: :dog: Happily married, proud dog dad 
 
 :video_game: Video Gaming since 2 years old (Duck Hunt:duck:) 
 
