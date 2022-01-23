@@ -12,4 +12,4 @@
 
 :brain: Loves to talk technology, education and mindset
 
-:open_book: Currently learning: SQL
+:open_book: Currently learning: SQL & PostgreSQL
