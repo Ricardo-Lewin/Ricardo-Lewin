@@ -12,4 +12,4 @@
 
 :brain: Loves to talk technology, education and mindset
 
-:open_book: Currently learning: Hashing and Log-In Authentication
+:open_book: Currently learning: Node and Express
