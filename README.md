@@ -12,4 +12,4 @@
 
 :brain: Loves to talk technology, education and mindset
 
-:open_book: Currently learning: Node and Express
+:open_book: Currently learning: ReactJS and Custom Hooks
